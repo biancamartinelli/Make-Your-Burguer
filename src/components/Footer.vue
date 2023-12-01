@@ -12,14 +12,14 @@
 
 <style>
     #footer {
-       height: 200px;
+       height: 100px;
        background-color: #222; 
        border-top: 4px solid #111;
        color: #FCBA03;
        display: flex;
        align-items: center;
        justify-content: center;
-       bottom: 0;
+       bottom: 5;
        width: 100%;
        position: absolute;
     }
